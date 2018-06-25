@@ -1,0 +1,1 @@
+Aplicação que identifica trafego de mineração Bitcoin na rede
